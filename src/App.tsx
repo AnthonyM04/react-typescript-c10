@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Home name={'Todd'} age={2} />
+        <Home name={'Todd'} age={2} /> <br/>
+        <Home name={'Damien'} age={20} />
       </header>
     </div>
   );
